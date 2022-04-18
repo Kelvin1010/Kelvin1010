@@ -1,0 +1,53 @@
+.login {
+    height: calc(100vh - 50px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://kynguyenlamdep.com/wp-content/uploads/2020/04/ban-lam-viec.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.loginTitle{
+    font-size: 50px;
+}
+.loginForm{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.loginForm > label {
+    margin: 10px 0;
+    font-size: 30px;
+    color: red;
+    font-weight: 700;
+    font-family:  'Josefin Sans', sans-serif;
+}
+.loginInput {
+    padding: 10px;
+    background-color: white;
+    border: none;
+}
+.loginButton {
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: teal;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.loginButton:disabled{
+    cursor: not-allowed;
+    background-color: red;
+}
+.RegisterButton{
+    position: absolute;
+    top: 60px;
+    right: 30px;
+    background-color: red;
+    cursor: pointer;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
