@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kelvin Ward</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelvin1010&label=Profile%20views&color=0e75b6&style=flat" alt="kelvin1010" /> </p>
 <p align="left">
 </p>
